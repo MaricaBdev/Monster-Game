@@ -19,12 +19,13 @@ Monster Slayer is the second version of the game "Monster Killer "remade with Vu
 - BattleLog
 
 
+<hr>
+#JavaScript Version
 
 
 ![Logo](https://i.ibb.co/pR7gZ09/Captur-de-ecran-din-2024-02-23-la-20-30-03.png)
 
 
-<br>
 
 # Monster Killer
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Logo" width="30" >
