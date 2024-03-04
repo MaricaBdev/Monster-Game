@@ -5,18 +5,16 @@
 # Monster Slayer
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Logo" width="30" >
 
-A brief description of what this project does and who it's for
+Monster Slayer is the second version of the game "Monster Killer "remade with Vue.Js.
 
 
 ## Demo
 
-Insert gif or link to demo
+<a src="https://monster-slayer-mb.netlify.app">View Demo</a>
 
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- RPG like game
+- BattleLog
 
