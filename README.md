@@ -20,7 +20,7 @@ Monster Slayer is the second version of the game "Monster Killer "remade with Vu
 
 
 
-# JavaScript Version
+
 <hr>
 
 ![Logo](https://i.ibb.co/pR7gZ09/Captur-de-ecran-din-2024-02-23-la-20-30-03.png)
