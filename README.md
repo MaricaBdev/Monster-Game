@@ -3,7 +3,7 @@
 
 
 # Monster Slayer
-![<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="200">]()
+![Used](https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg | width=50)
 
 A brief description of what this project does and who it's for
 
