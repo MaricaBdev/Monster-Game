@@ -24,7 +24,9 @@ Monster Slayer is the second version of the game "Monster Killer "remade with Vu
 ![Logo](https://i.ibb.co/pR7gZ09/Captur-de-ecran-din-2024-02-23-la-20-30-03.png)
 
 
-# Monster Slayer
+<br>
+
+# Monster Killer
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Logo" width="30" >
 
 Monster Killer is a RPG like game made with JavaScript.
